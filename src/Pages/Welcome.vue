@@ -58,7 +58,7 @@
 </template>
 
 <script setup>
-import Email from "../components/Email.vue";
+import Email from "../Components/Email.vue";
 </script>
 
 <style scoped>
